@@ -1,0 +1,25 @@
+.headline {
+  margin-top: 13.7rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  max-width: 56.5rem;
+  height: 24rem;
+}
+
+.headline__title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 5rem;
+  color: white;
+  line-height: 129%;
+  letter-spacing: -0.5px;
+}
+
+.headline__text {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  font-size: 1.8rem;
+  color: white;
+  line-height: 150%;
+}
