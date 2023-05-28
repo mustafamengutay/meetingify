@@ -12,6 +12,7 @@ html {
 
 body {
   background-image: url("./assets/backgroundPhoto.png");
+  background-repeat: no-repeat;
 }
 
 .wrapper {
