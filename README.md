@@ -1,4 +1,4 @@
-See the design -> [dribbble](https://dribbble.com/shots/21582575-Minimal-Meeting-Application-Landing-Page?utm_source=Clipboard_Shot&utm_campaign=mustafamengutay&utm_content=Minimal%20Meeting%20Application%20Landing%20Page&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=mustafamengutay&utm_content=Minimal%20Meeting%20Application%20Landing%20Page&utm_medium=Social_Share)
+Here is the design shot-> [dribbble](https://dribbble.com/shots/21582575-Minimal-Meeting-Application-Landing-Page?utm_source=Clipboard_Shot&utm_campaign=mustafamengutay&utm_content=Minimal%20Meeting%20Application%20Landing%20Page&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=mustafamengutay&utm_content=Minimal%20Meeting%20Application%20Landing%20Page&utm_medium=Social_Share)
 
 Here is a live version: [meetingify](https://main--zippy-crisp-8dd9ca.netlify.app/)
 
