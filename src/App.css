@@ -17,7 +17,8 @@ body {
 
 .wrapper {
   max-width: 116rem;
-  height: 80rem;
+  height: 100%;
+  overflow: hidden;
   margin: 0 auto;
   /* border: 2px solid black; */
 }
